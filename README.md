@@ -1,4 +1,4 @@
-#  Pokemon Goldnrod City Shop Website :cd:
+#  :cd: Pokemon Goldnrod City Shop Website 
 
 This project aims to create a web page used in the Pokemon world. I created a web homepage for 'Golden City Department Store', the largest department store in the Pokemon 2nd generation world.
 
