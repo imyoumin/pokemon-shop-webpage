@@ -11,7 +11,7 @@ This project aims to create a web page used in the Pokemon world. I created a we
 중앙대학교 예술공학대학 컴퓨터예술학부 임유민 20201607 
 
 ## :computer: Language
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Threedotjs&logoColor=black" />
